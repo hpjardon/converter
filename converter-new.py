@@ -9,6 +9,8 @@ it is referenced in other parts of the program.
 3) It divides it by the value of the final unit in meters ("fintom" variale)
 4) It stores the result in the "valueto" variable
 
+This program has been designed for Python 2.7.9
+
 '''
 
 def calculate(*args):
